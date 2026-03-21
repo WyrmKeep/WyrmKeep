@@ -41,4 +41,4 @@ Production support engineer at a major financial institution, driving AI adoptio
 
 ---
 
-*When I'm not building agent infrastructure, I'm running D&D campaigns or watching Turkish dramas.* 🐉
+*When I'm not building agent infrastructure, I'm running D&D campaigns or exploring new tech for the home lab.* 🐉
